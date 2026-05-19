@@ -79,7 +79,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/nahid181/E-commerce-web-app-using-Python-Django.git
+$  git clone https://github.com/sunjidanisha/E-commerce-Web-Application-using-Machine-Learning.git
 ```
 
 Then, Enter the project
@@ -130,8 +130,4 @@ $  python3 manage.py createsuperuser
 Then Add Email, Username and Password
 
 
-
-## For Sponsor or Projects Enquiry
-1. Email - nshohag27@gmail.com
-2. LinkedIn - [Md. Nahid Hossain Shohag](linkedin.com/in/md-nahid-hossain-shohag/)
 
