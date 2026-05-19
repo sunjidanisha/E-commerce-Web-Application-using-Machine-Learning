@@ -1,4 +1,4 @@
-# E-commerce-web-app-using-Python-Django
+# E-commerce-Web-App-using-Machine-Learning
 
 This is a simple e-commerce website built with Django (Python)
 I've made this as a "GOHONA" a jewelry shop website but you can make any website you like.
